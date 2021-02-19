@@ -43,3 +43,15 @@ In the third minute you can eat the 3 pieces of candy that have appeared in the 
 In total you can eat 7 + 4 + 3 = 14 pieces of candy.
 
 
+---
+**INSTRUCTIONS:**
+
+Fork this repo to your own. Create a solution to the problem. The test cases will prove whether your solution is correct.
+
+
+**MY IDE IS THROWING ERRORS WHEN FIRST LOADING THIS CODE**
+
+That's right. It's incomplete. Its your job to fill in the blanks.
+
+**WHY DOES THIS README LOOK TERRIBLE**
+fine. do a fork/ readme fix up / PR to here and I'll accept it.
