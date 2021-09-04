@@ -15,7 +15,13 @@ import math
 
 
 def maxCandies(arr, k):
-
+    sorted_candy = sorted(arr, reverse=True)
+    piecesEaten = 0
+    for interation in range(k):
+        piecesEaten += sorted_candy[0]
+        sorted_candy[0] = math.floor(sorted_candy[0]/2)
+        sorted_candy = sorted(sorted_candy, reverse=True)
+    return piecesEaten
 
 # Write your code here
 
